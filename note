@@ -1,1 +1,12 @@
 <p>My name is Alaa , i Am web developer from Egypt , i Self Learning , i studied courses from Udemy,Youtube and other online sources, i believe nothing better than create my own projects , i created that simple portofolio for establish my projects since i trying to land my first job as web developer , i believe nothing better than simplicity . that's my email if you like my projects: JavascriptCave@gmail.com.</p>
+
+
+ <div class="card">
+    <div class="pic" style="background-image: url(ww2.jpg)">
+    <div class="title"><a href="#" __target="blank">Play</a></div>
+    </div>
+    <div class="info">
+	<h4>World War2 (Mern)</h4>
+	<p>Stategy Game Built using Mysql,React,Node,Express</p>
+    </div>
+</div>
