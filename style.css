@@ -14,6 +14,12 @@ header{
 	align-content: center;
 	align-items: center;
 }
+#projects2{
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+}
 .card{
 	display: flex;
 	flex-direction: column;
