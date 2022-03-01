@@ -139,7 +139,27 @@ margin: 5px 0;
 .text-3 span{
 color: crimson;
 }
+@media(max-width: 800px){
+#home{
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.text-1{
+font-size: 20px;
+}
+.text-2{
+font-size: 50px;
+font-weight: 600;
+margin-left: -3px;
+}
+.text-3{
+font-size: 30px;
+margin: 5px 0;
+}
 
+
+}
  /*-------------------------about Section------------------------*/
  #about{
 display: flex;
