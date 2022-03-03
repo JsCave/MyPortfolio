@@ -187,13 +187,18 @@ align-content: center;
 	flex-direction: row;
 	align-content: center;
 	align-items: center;
+	justify-content: center;
 	max-width: 300px;
 }
 .cert{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
     font-size: 10px;
     color: #000;
     background-color: #fff;
-    width:100%;
+    width:70px;
 	margin:10px;
 }
 
